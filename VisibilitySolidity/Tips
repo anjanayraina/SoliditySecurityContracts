@@ -1,0 +1,2 @@
+The default visibilty in solidity is public , so be sure to specify the visibility
+of the functions so that no vurnerability can be exposed to the attacker 
