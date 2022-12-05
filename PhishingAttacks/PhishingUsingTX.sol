@@ -38,3 +38,5 @@ contract PhishingAttacker{
 }
 
 // for refrence : https://blog.sigmaprime.io/solidity-security.html#tx-origin
+// with thet said tx.origin has some good functionality 
+// it can be used to prevent any other smart contract from calling the given function 
