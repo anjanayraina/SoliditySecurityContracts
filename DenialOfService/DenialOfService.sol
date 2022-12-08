@@ -38,3 +38,6 @@ contract DOSAttack{
     }
 
 }
+
+// the serive is getting denies as we have fallback and recieve denying to take the transaction and hence making the contrcat always be the 
+// highesest bidder in the DOS contract 
